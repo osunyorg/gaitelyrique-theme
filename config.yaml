@@ -1,0 +1,13 @@
+theme: osuny
+enableRobotsTXT: true
+removePathAccents: true
+params:
+  summary:
+    position: hero
+  breadcrumb:
+    position: after-hero
+  search:
+    active: true
+  events:
+    index:
+      layout: grid
