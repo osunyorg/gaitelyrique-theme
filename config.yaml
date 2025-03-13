@@ -8,6 +8,3 @@ params:
     position: after-hero
   search:
     active: true
-  events:
-    index:
-      layout: grid
